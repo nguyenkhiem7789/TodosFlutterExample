@@ -1,6 +1,6 @@
 # todos_flutter
 
-A new Flutter application.
+    Todo apps have always been a good first app for starters to learn something new. I also created this app solely for learning purposes. I have used provider package which is now the recommended way of managing your state inside Flutter apps. So, I will be showing you how you can create a Todo app yourself with flutter using provider as the state management system.
 
 ## Getting Started
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+https://www.youtube.com/watch?v=dPdLx9tcN6U&feature=youtu.be
