@@ -1,6 +1,10 @@
 # todos_flutter
 
-    Todo apps have always been a good first app for starters to learn something new. I also created this app solely for learning purposes. I have used provider package which is now the recommended way of managing your state inside Flutter apps. So, I will be showing you how you can create a Todo app yourself with flutter using provider as the state management system.
+    Todo apps have always been a good first app for starters to learn something new. 
+    I also created this app solely for learning purposes. I have used provider package 
+    which is now the recommended way of managing your state inside Flutter apps. So, 
+    I will be showing you how you can create a Todo app yourself with flutter using 
+    provider as the state management system.
 
 ## Getting Started
 
